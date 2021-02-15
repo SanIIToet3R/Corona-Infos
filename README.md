@@ -1,6 +1,14 @@
 # Corona-Infos
-Android- und iOS-Applikation mit aktuellen Informationen und Fallzahlen rund um die Coronapandemie
+Flutter-Applikation für mobile Endgeräte mit aktuellen Informationen und Fallzahlen rund um die Corona-Pandemie.
 
-Aktuell befindet sich die Applikation in der Open Beta.
+Ebenso findet sich ein fertiges Android-Installationspaket in dem Projekt, mit welchem die App auf Android-Endgeräten mit Android 5.0 oder höher installiert werden kann.
 
-Zwischen dem 22.01.21 und dem 30.01.21 kannst du uns hier Feedback geben: https://forms.gle/h4ovyV3P3NZdeBuC9
+Credits:
+Chantal Buß
+Jorge Ferreira
+Julia Götz
+Michael Klement
+Maximilian Lindner
+Gabriel Lukaschek
+
+Alle Rechte vorbehalten
